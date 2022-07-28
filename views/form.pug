@@ -1,0 +1,12 @@
+extends layout
+
+block content 
+    form(action='/new', method='POST') 
+        h1= "Form"
+        div 
+            label(for="author")= "Author" 
+            input(name="author" id="author")
+            label(for="message")= "Message Text"
+            input(name="message" id="message")
+        button(type='submit')= "Send"
+

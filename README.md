@@ -1,2 +1,8 @@
-# mini-message-board-
-Message board built with Express, HTML/CSS, Node.js. Deployed on Heroku. 
+# Mini Message Board
+
+## Made With
+* Express 
+* HTML/CSS
+* Pug
+* Node.js 
+* Deployed on Heroku
