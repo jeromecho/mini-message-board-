@@ -1,4 +1,4 @@
-# Mini Message Board
+# 20chan - a mini message board
 
 ## Made With
 * Express 

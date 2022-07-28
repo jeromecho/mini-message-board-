@@ -7,6 +7,10 @@ a {
   color: #00B7FF;
 }
 
+form > * {
+    margin-top: 0.2rem;
+}
+
 form > div {
     align-items: flex-start;
     display: flex;
@@ -16,5 +20,10 @@ form > div {
 
 form > div > label { 
     text-align: left;
+}
+
+form > div > * {
+    margin-bottom: 0.2rem;
+    margin-top: 0.2rem;
 }
 
